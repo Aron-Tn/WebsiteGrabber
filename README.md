@@ -16,14 +16,15 @@
 ## 📥 Installation
 
 ### **Windows (.exe) Users**
-1. **Download the latest** `.exe`=
+1. **Download the latest** `.exe`
 2. **Run the installer** and follow the setup instructions.
 3. **Launch the tool** and start grabbing domains!
 
 ### **MacBook (.app) Users**
-1. **Download the latest** `.app`
-2. **Move the .app file** to your **Applications** folder.
-3. **Run the tool** (You may need to allow it in **System Preferences > Security & Privacy**).
+1. **Download the zip** `Website_Grabber_mac.zip` and **Extract it**
+2. **You will get file** `.app`
+3. **Move the .app file** to your **Applications** folder.
+4. **Run the tool** (You may need to allow it in **System Preferences > Security & Privacy**).
 
 ---
 
